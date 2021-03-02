@@ -9,4 +9,6 @@ Hwacha Project (vector) / RoCC (Chipyard)
 
 https://github.com/ucb-bar/hwacha
 
+https://chipyard.readthedocs.io/en/latest/Customization/Custom-Core.html
+
 https://chipyard.readthedocs.io/en/latest/Customization/RoCC-Accelerators.html
