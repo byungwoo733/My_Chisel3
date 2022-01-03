@@ -25,3 +25,8 @@ https://www.onlinegdb.com/
 Compiler Explorer
 
 https://godbolt.org/
+
+=================
+Metals (scala) 
+
+https://scalameta.org/metals/
