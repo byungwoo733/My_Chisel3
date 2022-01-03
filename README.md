@@ -21,6 +21,8 @@ https://chipyard.readthedocs.io/en/latest/Customization/Custom-Core.html
 
 https://chipyard.readthedocs.io/en/latest/Customization/RoCC-Accelerators.html
 
+https://riscv.org/wp-content/uploads/2018/12/Hwacha-A-Data-Parallel-RISC-V-Extension-and-Implementation-Schmidt-Ou-.pdf
+
 ================
 
 Online Compile Debugger (GDB)
