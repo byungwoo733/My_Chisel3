@@ -28,6 +28,6 @@ https://godbolt.org/
 
 =================
 
-Metals (scala) 
+Metals (Scala Server Machine) 
 
 https://scalameta.org/metals/
