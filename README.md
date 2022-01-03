@@ -1,7 +1,7 @@
 # My_Chisel3
 Chisel3 Programming
 
-Chisel3 IDE: Scastie
+Chisel3 IDE: Scastie, Visual Studio Code
 
 https://scastie.scala-lang.org/
 
