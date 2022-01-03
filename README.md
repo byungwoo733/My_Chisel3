@@ -3,7 +3,12 @@ Chisel3 Programming
 
 Chisel3 IDE: Scastie, Visual Studio Code
 
+Scastie
+
 https://scastie.scala-lang.org/
+
+
+Visual Studio Code (in Github) -> Click "."(point) on Keyboard in Code Repository
 
 ================
 
