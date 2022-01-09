@@ -41,6 +41,12 @@ https://scalameta.org/metals/
 
 ================
 
+Verilog ChipVerify (Example Documents)
+
+https://www.chipverify.com/
+
+================
+
 Five EmbedDev (An Embedded RISC-V Blog)
 
 https://five-embeddev.com/
