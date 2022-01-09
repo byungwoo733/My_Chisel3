@@ -38,3 +38,9 @@ https://godbolt.org/
 Metals (Scala Server Machine) 
 
 https://scalameta.org/metals/
+
+================
+
+Five EmbedDev (An Embedded RISC-V Blog)
+
+https://five-embeddev.com/
