@@ -7,6 +7,9 @@ Scastie
 
 https://scastie.scala-lang.org/
 
+Chisel3 Scastie (Scastie 3.5)
+
+https://scastie.scala-lang.org/qn3gln7OTVCxsCqv0ldyIQ
 
 Visual Studio Code (in Github) -> Click "."(point) on Keyboard in Code Repository
 
