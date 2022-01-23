@@ -3,6 +3,8 @@ Chisel3 Programming
 
 Chisel3 IDE: Scastie, Visual Studio Code
 
+Visual Studio Code (in Github) -> Click "."(point) on Keyboard in Code Repository
+
 Scastie
 
 https://scastie.scala-lang.org/
@@ -11,7 +13,9 @@ Chisel3 Scastie (Scastie 3.5)
 
 https://scastie.scala-lang.org/qn3gln7OTVCxsCqv0ldyIQ
 
-Visual Studio Code (in Github) -> Click "."(point) on Keyboard in Code Repository
+EDA Playground (Verilog / VHDL):
+
+https://www.edaplayground.com/
 
 ================
 
