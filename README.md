@@ -14,7 +14,9 @@ Visual Studio Code (in Github) -> Click "."(point) on Keyboard in Code Repositor
 
 RTL Design Language
 
-CHISEL3 / FIRRTL: https://www.chisel-lang.org/
+CHISEL3 / FIRRTL: 
+
+https://www.chisel-lang.org/
 
 ================
 
