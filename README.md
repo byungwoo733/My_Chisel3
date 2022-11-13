@@ -65,3 +65,9 @@ https://www.chipverify.com/
 Five EmbedDev (An Embedded RISC-V Blog)
 
 https://five-embeddev.com/
+
+================
+
+RARS -- RISC-V Assembler and Runtime Simulator
+
+https://github.com/TheThirdOne/rars
