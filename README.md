@@ -73,4 +73,18 @@ RARS -- RISC-V Assembler and Runtime Simulator
 https://github.com/TheThirdOne/rars
 
 
-(install) Window (WSL / Cygwin) & Linux (Ubuntu)
+(install) Windows (WSL / Cygwin) & Linux (Ubuntu)
+
+================
+
+[Verilog / SystemC IDE & Compile Tool]
+
+- Evan (SystemC Hardware Design and Verification Tool)
+
+- V2SC (Verilog to SystemC Translation Tool)
+
+[Mazdak & Alborz Producs] Evan & V2SC Download (Windows & Linux)
+https://www.mazdak-alborz.com/download
+
+
+
