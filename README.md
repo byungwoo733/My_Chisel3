@@ -75,7 +75,7 @@ https://github.com/TheThirdOne/rars
 
 (install) Windows (WSL / Cygwin) & Linux (Ubuntu)
 
-[Documents]
+[Documents] Computer Architecture and System Software (CASS)
 
 https://cass-kul.github.io/
 
